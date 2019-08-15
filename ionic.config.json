@@ -1,5 +1,7 @@
 {
   "name": "catalogoGames",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
